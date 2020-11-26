@@ -1,5 +1,5 @@
 package org.lencodigitexer.bouquet;
-
+// этот код посвящается Кристине
 import android.os.Bundle;
 
 import com.google.android.material.floatingactionbutton.FloatingActionButton;
