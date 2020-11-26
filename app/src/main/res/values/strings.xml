@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">Букет, тебе, выбирай</string>
+    <string name="tab_text_1">Розы</string>
+    <string name="tab_text_2">Тюльпаны</string>
+    <string name="tab_text_3">Ромашки</string>
+</resources>
